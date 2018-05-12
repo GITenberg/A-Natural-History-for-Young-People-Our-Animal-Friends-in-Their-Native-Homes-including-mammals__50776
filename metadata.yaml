@@ -1,10 +1,16 @@
 _repo: A-Natural-History-for-Young-People-Our-Animal-Friends-in-Their-Native-Homes-including-mammals__50776
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50776-h/images/cover.jpg
 creator:
   author:
     agent_name: Humphreys, Phebe Westcott
     gutenberg_agent_id: '46079'
     url: http://www.gutenberg.org/2009/agents/46079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50776#A-Natural-History-for-Young-People-Our-Animal-Friends-in-Their-Native-Homes-including-mammals_
 gutenberg_issued: '2015-12-27'
 gutenberg_type: Text
 identifiers:
